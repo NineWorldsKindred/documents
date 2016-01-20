@@ -12,7 +12,7 @@
 			* Pub Moots
 			* Involvement with food bank (once that takes off)
 			* Lore discussion
-			* Boast a little about our members (generically --- like the fact that we have everyoen from IT professionals to brewers among our ranks)
+			* Boast a little about our members (generically --- like the fact that we have everyone from IT professionals to brewers among our ranks)
 	* Rather than displaying the calendar here, it should be moved to its own page
 	* Additional pictures of the kindred, for those comfortable with the idea
 
