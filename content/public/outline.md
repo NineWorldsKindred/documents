@@ -24,6 +24,9 @@
 		* Anchor tags with a page specific menu could be used if we felt there was too much scrolling
 			* This would probably only be available on desktop presentation
 
+* Calendar
+	* G calendar of events, public view
+
 * Contact
 	* Simple contact form 
 	* Text explaining how we meet with people and what to expect 
