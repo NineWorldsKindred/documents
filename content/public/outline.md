@@ -2,7 +2,7 @@
 
 * Landing Page
 	* Minimalistic 
-	* Background fill image
+	* Good representational image of NWK will be available
 	* Very brief statement about kindred, current landing page statement needs revised
 
 * About Us
