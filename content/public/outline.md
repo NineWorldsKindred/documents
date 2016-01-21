@@ -27,6 +27,10 @@
 * Calendar
 	* G calendar of events, public view
 
+* Heathmoot
+	* Could also be featured along with the calendar page if events were centralized
+		* This woudl necessatate changing Calendar menu title to Events
+
 * Contact
 	* Simple contact form 
 	* Text explaining how we meet with people and what to expect 
