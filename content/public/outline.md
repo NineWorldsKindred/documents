@@ -24,12 +24,10 @@
 		* Anchor tags with a page specific menu could be used if we felt there was too much scrolling
 			* This would probably only be available on desktop presentation
 
-* Calendar
+* Events
 	* G calendar of events, public view
-
-* Heathmoot
-	* Could also be featured along with the calendar page if events were centralized
-		* This would necessatate changing Calendar menu title to Events (or something similar)
+	* Heathmoot
+		* Heathmoot can have its own real estate on the events page below the calendar; brief description with a link to the eventbrite page
 
 * Contact
 	* Simple contact form 
