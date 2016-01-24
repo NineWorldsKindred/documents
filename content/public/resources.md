@@ -22,6 +22,6 @@ Sacred Texts is another decent resource for free resources. They have an Iceland
 Jordsvin's Norse Heathen Pages is a place that many of us within COA look on fondly. It has maintained a presence on the web for a long time, and to this day is still a friendly place to visit for more information about heathenry.
 
 ##NWK Recommended Booklist
-There are so many great works of research out there that are beneficial to reconstructing our religion. This is a list of some titles that members of Nine Worlds Kindred wanted to point out as especially good books to learn about Asatru from or to have on hand for reference purposes.
+There are many great works of research out there that are beneficial to gaining a better understanding of what it means to be Asatru. This booklist features just a handful of titles that members of Nine Worlds Kindred wanted to highlight.
 
 ###to do
