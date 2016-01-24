@@ -29,7 +29,7 @@
 
 * Heathmoot
 	* Could also be featured along with the calendar page if events were centralized
-		* This woudl necessatate changing Calendar menu title to Events
+		* This would necessatate changing Calendar menu title to Events (or something similar)
 
 * Contact
 	* Simple contact form 
